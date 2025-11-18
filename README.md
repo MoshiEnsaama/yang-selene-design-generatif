@@ -1,2 +1,2 @@
-# yang-selene-design-generatif
+# YANG-Selene-design-generatif
 Site de design génératif (coraux)
